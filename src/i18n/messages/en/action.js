@@ -1,0 +1,1 @@
+const i={searchPlaceholder:"Search keywords",adsFromSite:"Ads from this site",invalidSiteTitle:"Invalid site",invalidSiteText:"It is not possible to find ads for this site. Try again on a different site.",tooltips:{}};export default i;

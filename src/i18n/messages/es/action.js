@@ -1,0 +1,1 @@
+const e={searchPlaceholder:"Buscar por palabras clave",adsFromSite:"Anuncios de este sitio",invalidSiteTitle:"Sitio inválido",invalidSiteText:"No es posible encontrar anuncios para este sitio. Inténtalo de nuevo en un sitio diferente.",tooltips:{}};export default e;
